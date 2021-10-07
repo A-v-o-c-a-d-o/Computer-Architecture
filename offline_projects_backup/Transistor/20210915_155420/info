@@ -1,0 +1,39 @@
+{
+  "uuid": "1b56956cede81168ed44cd665b9846e7",
+  "path": "Offline/Transistor",
+  "name": "Transistor",
+  "content": "",
+  "created_at": "2021-09-15 13:50:43",
+  "updated_at": "2021-09-15 15:54:20",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "fdae76644a666d543ead83494526c1a9",
+      "title": "4 input AND circuit",
+      "description": "",
+      "docType": "1",
+      "master": "205a7488e19da8a5273e3c6d42f847e5",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1631696060,
+      "createTime": 1631694396,
+      "histories": [],
+      "created_at": "2021-09-15 15:26:36",
+      "updated_at": "2021-09-15 15:54:20"
+    }
+  ],
+  "sort": [],
+  "title": "Transistor",
+  "foldername": "Transistor",
+  "schfilename": "Transistor.json",
+  "schfilemtime": 1631696060875
+}

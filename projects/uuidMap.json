@@ -1,0 +1,11 @@
+{
+  "4cc85c59f4f36f983f40d9e1cc2ac046": "Transistor 1",
+  "1df3839e27c184ceb764fdde8767cf16": "Transistor 1\\Transistor 1.json?4 input AND circuit",
+  "26455399966d16e5c152f362a5f332ea": "Transistor 1\\Transistor 1.json?4 input OR circuit",
+  "a03c951119f9d5d2fcef7001ee8d0aa6": "Transistor 1\\Transistor 1.json?(A + B) -> C",
+  "46a58c2860333ce0da9b4f2dc8a8a2ca": "Transistor 1\\Transistor 1.json?(A +B)(notA + C)",
+  "8d1e29176ccda1e1c3fa0d75506ad829": "Transistor 1\\Transistor 1.json?(notA + B).notC",
+  "c0d439aa71235a487d1a503de52cabd6": "Transistor 1\\Transistor 1.json?(notA + B) -> (A + notC)",
+  "e71c98e998d0dec866754647b1ee391f": "Transistor 1\\Transistor 1.json?AB -> BC",
+  "a3000f995de79219c4c3fdf4df16cf45": "Transistor 1\\Transistor 1.json?notA.B + A.notB"
+}

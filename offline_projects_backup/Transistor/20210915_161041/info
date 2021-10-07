@@ -1,0 +1,18 @@
+{
+  "uuid": "1b56956cede81168ed44cd665b9846e7",
+  "path": "Offline/Transistor",
+  "name": "Transistor",
+  "content": "",
+  "created_at": "2021-09-15 13:50:43",
+  "updated_at": "2021-09-15 16:10:41",
+  "stick": "",
+  "documents": [],
+  "sort": [
+    "fdae76644a666d543ead83494526c1a9",
+    "b9594372281d4f3c0d6b3a5bef53a335"
+  ],
+  "title": "Transistor",
+  "foldername": "Transistor",
+  "schfilename": "Transistor.json",
+  "schfilemtime": 1631696646480
+}

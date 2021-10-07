@@ -1,0 +1,84 @@
+{
+  "uuid": "1b56956cede81168ed44cd665b9846e7",
+  "path": "Offline/Transistor",
+  "name": "Transistor",
+  "content": "",
+  "created_at": "2021-09-15 13:50:43",
+  "updated_at": "2021-09-15 15:19:00",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "024fce40a18eaad7ff71ad29a262af1a",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "3b2ca6fd890111abfc00690934cd590e",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4e5e5775fd634dd48141eafc77c26e7a": 1,
+        "e545f26e87c74952857381bd0bff848e": 1,
+        "bb009484ef804a24ac5d18c54b249586": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "5",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KEC",
+            "BOM_Manufacturer Part": "2n3904S-RTK/PS",
+            "BOM_Supplier Part": "C18536",
+            "BOM_Paste Type": "SOT-23",
+            "puuid": "4a81c52f384a4e1ba3f57a3703e0f5f9",
+            "uuid": "4e5e5775fd634dd48141eafc77c26e7a"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ]
+      ],
+      "updateTime": 1631693940,
+      "createTime": 1631693888,
+      "histories": [],
+      "created_at": "2021-09-15 15:18:08",
+      "updated_at": "2021-09-15 15:19:00"
+    }
+  ],
+  "sort": [],
+  "title": "Transistor",
+  "foldername": "Transistor",
+  "schfilename": "Transistor.json",
+  "schfilemtime": 1631693941003
+}

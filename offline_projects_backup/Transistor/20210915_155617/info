@@ -1,0 +1,70 @@
+{
+  "uuid": "1b56956cede81168ed44cd665b9846e7",
+  "path": "Offline/Transistor",
+  "name": "Transistor",
+  "content": "",
+  "created_at": "2021-09-15 13:50:43",
+  "updated_at": "2021-09-15 15:56:17",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "fdae76644a666d543ead83494526c1a9",
+      "title": "4 input AND circuit",
+      "description": "",
+      "docType": "1",
+      "master": "b0c8058202531769b128ad392a6b625f",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4e5e5775fd634dd48141eafc77c26e7a": 4,
+        "bb009484ef804a24ac5d18c54b249586": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2N3904(SOT-23)",
+          4,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q1,Q2,Q3,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KEC",
+            "BOM_Manufacturer Part": "2n3904S-RTK/PS",
+            "BOM_Supplier Part": "C18536",
+            "BOM_Paste Type": "SOT-23",
+            "puuid": "4a81c52f384a4e1ba3f57a3703e0f5f9",
+            "uuid": "4e5e5775fd634dd48141eafc77c26e7a"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ]
+      ],
+      "updateTime": 1631696177,
+      "createTime": 1631694396,
+      "histories": [],
+      "created_at": "2021-09-15 15:26:36",
+      "updated_at": "2021-09-15 15:56:17"
+    }
+  ],
+  "sort": [],
+  "title": "Transistor",
+  "foldername": "Transistor",
+  "schfilename": "Transistor.json",
+  "schfilemtime": 1631696177096
+}
